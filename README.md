@@ -2,7 +2,7 @@
 
 | S. No. | Task | GitHub Code Link | Hosted Link |
 | :-: | :-: | :-: | :-: |
-| 1 | Task 1 | [View](https://github.com/aryanv8/TasksCSS/blob/main/task1.html) | [View](https://aryanv8.github.io/TasksCSS/task1html) |
+| 1 | Task 1 | [View](https://github.com/aryanv8/TasksCSS/blob/main/task1.html) | [View](https://aryanv8.github.io/TasksCSS/task1.html) |
 | 2 | Task 2 | [View](https://github.com/aryanv8/TasksCSS/blob/main/task2.html) | [View](https://aryanv8.github.io/TasksCSS/task2.html) |
 | 3 | Task 3 | [View](https://github.com/aryanv8/TasksCSS/blob/main/task3.html) | [View](https://aryanv8.github.io/TasksCSS/task3.html) |
 | 4 | Task 4 | [View](https://github.com/aryanv8/TasksCSS/blob/main/task4.html) | [View](https://aryanv8.github.io/TasksCSS/task4.html) |
